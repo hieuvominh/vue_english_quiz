@@ -1,4 +1,4 @@
-# multi
+# Vue English Quiz template
 
 > My brilliant Nuxt.js project
 
